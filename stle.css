@@ -1,0 +1,39 @@
+body{
+  background: url(back.jpg);
+  background-size: cover;
+  width: 95%;
+  height:60%;
+  border: 5px solid grey;
+  padding: 10px;
+  margin: 20px;
+  
+}
+h1{
+  text-align: center;
+  color:white;
+}
+.self{
+  float: left;
+  width: 30%;
+  height: 60%;
+  border-style:solid;
+  border-color: blue;
+  margin:5%;
+  padding:1%;
+  margin-top:2%;
+  border-radius:10%;
+}
+.self:hover{
+	border-color: grey;
+}
+p{
+  text-align: left;
+  color: white;  
+}
+h2{
+  text-decoration: underline;
+  color: white;
+}
+li{
+	color: white;
+}
