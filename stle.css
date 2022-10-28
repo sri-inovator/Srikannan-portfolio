@@ -12,12 +12,11 @@ h1{
 }
 .self{
   float: left;
-  width: 30%;
-  height: 60%;
+  width: 28%;
   border-style:solid;
   border-color: blue;
   margin:5%;
-  padding:1%;
+  padding:0.5%;
   margin-top:2%;
   border-radius:10%;
 }
