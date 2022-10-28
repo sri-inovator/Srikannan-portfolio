@@ -1,8 +1,6 @@
 body{
   background: url(back.jpg);
   background-size: cover;
-  width: 95%;
-  height:60%;
   border: 5px solid grey;
   padding: 10px;
   margin: 20px;
