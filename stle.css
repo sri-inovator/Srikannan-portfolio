@@ -1,0 +1,46 @@
+body{
+  background:url(back.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+  
+}
+h1{
+  text-align: center;
+  color:white;
+ 
+}
+.self{
+  float: left;
+  width: 28%;
+  border-style:solid;
+  border-color: blue;
+  margin:5%;
+  padding:0.5%;
+  margin-top:2%;
+  border-radius:10%;
+}
+.self:hover{
+	border-color: grey;
+}
+p{
+  text-align: left;
+  color: white;  
+}
+h2{
+  text-decoration: underline;
+  color: white;
+}
+li{
+	color: white;
+}
+.c{
+	display:flex;
+	
+}
+.c img{
+	margin-top:300px;
+	margin-left:100px;
+}
+a{
+	color: grey;
+}
