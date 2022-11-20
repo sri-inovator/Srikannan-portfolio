@@ -46,5 +46,5 @@ a{
   box-sizing: border-box;
 } 
 a:hover{
-   border: 5px dotted silver;
+   color: silver;
 }
