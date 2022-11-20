@@ -43,4 +43,7 @@ li{
 }
 a{
 	color: white;
+} 
+a:hover{
+   border: 5px dotted silver;
 }
