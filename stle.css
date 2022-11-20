@@ -43,6 +43,7 @@ li{
 }
 a{
 	color: white;
+  box-sizing: border-box;
 } 
 a:hover{
    border: 5px dotted silver;
