@@ -46,6 +46,6 @@ a{
   box-sizing: border-box;
 } 
 a:hover{
-   color: black;
+   color: silver;
    font-size: 20px;
 }
